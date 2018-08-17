@@ -16,11 +16,7 @@ First, install gnome-shell and gnome-tweak-tool
 
 Then, git clone these files
 
-`git clone https://github.com/kev1nming/Ubuntu_Theme_macOSX.git`
-
-or use SSH
-
-`git clone git@github.com:kev1nming/Ubuntu_Theme_macOSX.git`
+`git clone --recursive https://github.com/kev1nming/Ubuntu_Theme_macOSX.git`
 
 Move `.icons` and `.themes` to your Home(~)
 
