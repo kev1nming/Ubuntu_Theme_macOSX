@@ -4,7 +4,9 @@ A series files that can let your Ubuntu looks like the macOS(OSX).
 ## File source
 ### GitHub Repository
 Dock: [dash-to-dock](https://github.com/micheleg/dash-to-dock) 
+
 Themes: [Mc-OS-themes](https://github.com/paullinuxthemer/Mc-OS-themes)
+
 Icons: [la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme/) 
 ### Download link
 Wallpapers Download link: [MacBuntu-Wallpapers](http://drive.noobslab.com/data/Mac/MacBuntu-Wallpapers.zip)
@@ -16,7 +18,7 @@ First, install gnome-shell and gnome-tweak-tool
 sudo apt install gnome-shell gnome-tweak-tool
 ```
 
-Then, git clone these files
+Then, git clone these files (don't forget `--recursive`)
 
 ```shell
 git clone --recursive https://github.com/kev1nming/Ubuntu_Theme_macOSX.git
