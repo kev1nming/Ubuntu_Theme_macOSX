@@ -12,11 +12,15 @@ Wallpapers Download link: [MacBuntu-Wallpapers](http://drive.noobslab.com/data/M
 ## How to apply the theme
 First, install gnome-shell and gnome-tweak-tool
 
-`sudo apt install gnome-shell gnome-tweak-tool`
+```shell
+sudo apt install gnome-shell gnome-tweak-tool
+```
 
 Then, git clone these files
 
-`git clone --recursive https://github.com/kev1nming/Ubuntu_Theme_macOSX.git`
+```shell
+git clone --recursive https://github.com/kev1nming/Ubuntu_Theme_macOSX.git
+```
 
 Move `.icons` and `.themes` to your Home(~)
 
