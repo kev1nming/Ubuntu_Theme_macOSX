@@ -11,18 +11,34 @@ Wallpapers Download link: [MacBuntu-Wallpapers](http://drive.noobslab.com/data/M
 
 ## How to apply the theme
 First, install gnome-shell and gnome-tweak-tool
+
 `sudo apt install gnome-shell gnome-tweak-tool`
+
 Then, git clone these files
+
 `git clone https://github.com/kev1nming/Ubuntu_Theme_macOSX.git`
+
 or use SSH
+
 `git clone git@github.com:kev1nming/Ubuntu_Theme_macOSX.git`
+
 Move `.icons` and `.themes` to your Home(~)
+
 ``` shell
 cd Ubuntu_Theme_macOSX/
 mv .icons/ .themes/ ~
 ```
+
 Done! Now you can use `gnome-tweak-tool` to apply your theme and icons, and use wallpapers in `Ubuntu_Theme_macOSX/MacBuntu-Wallpapers/`
+
 ### Dock
+
 To change the dock, please use [dash-to-dock](https://github.com/micheleg/dash-to-dock)
+
 I like the default font, so I didn't change it.
+
 You can use `gnome-tweak-tool` to change font and other settings.
+
+## Effect sketch
+
+![MacOS_Theme_for_Ubuntu.jpg](https://i.loli.net/2018/08/17/5b767c7325629.jpg)
