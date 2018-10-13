@@ -41,6 +41,5 @@ I like the default font, so I didn't change it.
 
 You can use `gnome-tweak-tool` to change font and other settings.
 
-## Effect sketch
-#### My VirtualBox Desktop
-![MacOS_Theme_for_Ubuntu.jpg](https://i.loli.net/2018/08/17/5b767c7325629.jpg)
+## Preview
+![MacOS_Theme_for_Ubuntu.jpg](https://i.loli.net/2018/10/13/5bc19eaa89a59.jpg)
